@@ -1,0 +1,284 @@
+{
+   
+   "i18nLabels": {
+	   "interestSummary":{
+		  "title":"Personalize your content",
+		  "description":"Select topics and industries you’re interested in to help us provide content tailored for you.",
+		  "yourInterests":"Your interests include",
+		  "industry":"Industries",
+		  "topic":"Topics",
+		  "service":"Services",
+		  "country":"Countries",
+		  "lastUpdated":"Last updated",
+		  "selectedInterests":"Select interests"
+	   },
+	   "promotional":{
+		  "welcome":"Welcome ",
+		  "myKpmgProfile":"Save, Curate and Share",
+		  "newUser1":"Browse articles, ",
+		  "unknownUser":"First rate content personalized for you.",
+		  "newUser2":"set up your interests",
+		  "newUser3":", or ",
+		  "newUser4":"Learn more",
+		  "myProfileCTA":"Dashboard",
+		  "oldUser":"You've been a member since"
+	   }
+   },
+   "links":{
+      "interest":"",
+      "dashboard":"",
+      "learMore":""
+   },
+   "personalizationUtils": {
+		"preferencesCount": {
+			"total":0,
+			"industry":0,
+			"topic":0,
+			"service":0,
+			"country":0
+		},
+		"info": {
+		   "callId":"dc9c427771654964822410b4a40c2148",
+		   "errorCode":0,
+		   "apiVersion":2,
+		   "time":"2018-04-15T08:22:42.035Z",
+		   "registeredTimestamp":1523780556000,
+		   "UID":"e4933fbc0b424bc0a02c97a832f18dd1",
+		   "UIDSignature":"hHNIQA1sbA2kXvWiLdzsNJuDDGk=",
+		   "signatureTimestamp":"1523780561",
+		   "created":"2018-04-15T06:18:18.024Z",
+		   "createdTimestamp":1523773098000,
+		   "data":{
+			  "implicit":{
+				 "industry":"NA"
+			  },
+			  "preferences":"{\"industry\":{\"49836440742850442553958\":{\"selected\":true,\"146608106338816780507774\":{},\"210227325452723619282363\":{},\"49511473909126945900734\":{},\"157374162528097435002725\":{}},\"24283538348155695973053\":{\"selected\":true,\"79477517944999996311681\":{},\"45066207611182215145458\":{},\"97349519784214590631952\":{},\"211731157194145578138823\":{}},\"130711955699587712346835\":{\"selected\":true,\"232742872249074572533646986939796\":{},\"179170753819216547826699\":{},\"177519249703257844285859\":{},\"204177447318521459798970\":{},\"33741117190029807022707\":{},\"212748966221740425738703\":{},\"96726839063537602612520\":{},\"188254569291689937559980\":{}},\"199568660586684496743305\":{\"selected\":true,\"25948030477715753779735\":{},\"140366652604729066998342\":{},\"91406404064050401583773\":{},\"156805312704803314838851\":{},\"25862573858623848912692\":{},\"133386221747723226236238\":{},\"125233681646601262242201\":{}},\"149966161510941564767001\":{\"selected\":true,\"192039136753087269580494\":{},\"131623764919550369614492\":{},\"110566678028133689052285\":{},\"190723427933480677659292\":{}},\"83825229207521463078039\":{\"selected\":true,\"381334560107007068199107631114497\":{},\"741077344972931061876935397040309\":{},\"30054401637530496823720\":{},\"180861083967022504056848\":{},\"197910783759602366823675\":{},\"111259100962363574786085\":{}}},\"insight\":{\"708496833081327404827146390382137\":{\"selected\":true,\"6302550637005123818027\":{},\"780131639095689187509834815726930\":{},\"788631610864373525595787659586231\":{},\"907284333881694028609033217998520\":{},\"400605835657813092416710947403399\":{},\"843499125046387830730513277098719\":{},\"76455965496686002834904710609804\":{},\"719149336706048768850041390604292\":{},\"551459297956799180799006758452325\":{}},\"557332024546952627028209607873412\":{\"selected\":true},\"253911904263834218638860496152816\":{\"selected\":true,\"854560570233936585325049310233072\":{},\"846576593728774247702880956437074\":{},\"714171677820595260008763932538745\":{},\"544550140004846372496746522794985\":{}},\"746931272130961059444217660798644\":{\"selected\":true,\"846724600136312201268967521531043\":{},\"709072964956694331076787308456565\":{}},\"87166134960131444843336\":{\"selected\":true,\"477057264261022260323723689895295\":{},\"687216057762571334022761812498523\":{},\"92094206636189613179918994840462\":{},\"466273619875599138694163326125653\":{}}},\"service\":{},\"country\":{\"global\":{\"selected\":true,\"xx/en\":{}}}}",
+			  "terms":true,
+			  "terms_text":"I acknowledge that I have read and understood the terms stated in the KPMG Online Privacy Statement.",
+			  "kpmg":{
+				 "registeredLocale":"xx/en"
+			  }
+		   },
+		   "subscriptions":{
+			  "subscription_opt_in":{
+				 "email":{
+					"isSubscribed":false,
+					"lastUpdatedSubscriptionState":"2018-04-15T06:18:28.7034063Z",
+					"tags":null,
+					"doubleOptIn":{
+					   "confirmTime":null,
+					   "emailSentTime":null,
+					   "status":"NotConfirmed"
+					}
+				 }
+			  },
+			  "communication_opt_in":{
+				 "email":{
+					"isSubscribed":false,
+					"lastUpdatedSubscriptionState":"2018-04-15T06:18:28.7044063Z",
+					"tags":null,
+					"doubleOptIn":{
+					   "confirmTime":null,
+					   "emailSentTime":null,
+					   "status":"NotConfirmed"
+					}
+				 }
+			  }
+		   },
+		   "preferences":{
+
+		   },
+		   "emails":{
+			  "verified":[
+				 "appsparkler@gmail.com"
+			  ],
+			  "unverified":[
+
+			  ]
+		   }, 
+		   "identities":[
+			  {
+				 "provider":"googleplus",
+				 "providerUID":"118163370941443306411",
+				 "allowsLogin":true,
+				 "isLoginIdentity":true,
+				 "isExpiredSession":false,
+				 "lastUpdated":"2018-04-15T08:22:36.1538126Z",
+				 "lastUpdatedTimestamp":1523780556153,
+				 "oldestDataUpdated":"2018-04-15T08:22:35.9938126Z",
+				 "oldestDataUpdatedTimestamp":1523780555993,
+				 "firstName":"Akash",
+				 "lastName":"Shah",
+				 "nickname":"NA",
+				 "profileURL":"NA",
+				 "email":"appsparkler@gmail.com",
+				 "photoURL":"NA",
+				 "thumbnailURL":"NA"
+			  },
+			  {
+				 "provider":"site",
+				 "providerUID":"e4933fbc0b424bc0a02c97a832f18dd1",
+				 "allowsLogin":false,
+				 "isLoginIdentity":false,
+				 "isExpiredSession":false,
+				 "lastUpdated":"0001-01-01T00:00:00Z",
+				 "lastUpdatedTimestamp":0,
+				 "oldestDataUpdated":"0001-01-01T00:00:00Z",
+				 "oldestDataUpdatedTimestamp":0,
+				 "firstName":"Akash",
+				 "lastName":"Shah",
+				 "nickname":"NA",
+				 "profileURL":"NA",
+				 "email":"appsparkler@gmail.com",
+				 "photoURL":"NA",
+				 "thumbnailURL":"NA"
+			  }
+		   ],
+		   "isActive":true,
+		   "isRegistered":true,
+		   "isVerified":true,
+		   "lastLogin":"2018-04-15T08:22:36.153Z",
+		   "lastLoginTimestamp":1523780556000,
+		   "lastUpdated":"2018-04-15T08:22:36.076Z",
+		   "lastUpdatedTimestamp":1523780556076,
+		   "loginProvider":"googleplus",
+		   "loginIDs":{
+			  "emails":[
+				 "appsparkler@gmail.com"
+			  ],
+			  "unverifiedEmails":[
+
+			  ]
+		   },
+		   "oldestDataUpdated":"2018-04-15T06:18:18.024Z",
+		   "oldestDataUpdatedTimestamp":1523773098024,
+		   "profile":{
+			  "firstName":"Akash",
+			  "lastName":"Shah",
+			  "profileURL":"https://home.kpmg.com/content/dam/kpmg/images/platform/KPMG.png",
+			  "email":"appsparkler@gmail.com",
+			  "photoURL":"https://home.kpmg.com/content/dam/kpmg/images/platform/KPMG.png",
+			  "thumbnailURL":"https://home.kpmg.com/content/dam/kpmg/images/platform/KPMG.png"
+		   },
+		   "registered":"2018-04-15T08:22:36.076Z",
+		   "socialProviders":"googleplus,site",
+		   "verified":"2018-04-15T06:18:18.250Z",
+		   "verifiedTimestamp":1523773098250,
+		   "status":"OK",
+		   "errorMessage":"",
+		   "statusMessage":"",
+		   "requestParams":{
+			  "apiDomain":"eu1.gigya.com",
+			  "connectWithoutLoginBehavior":"loginExistingUser",
+			  "defaultRegScreenSet":"CustomEdit-RegistrationLogin",
+			  "defaultMobileRegScreenSet":"CustomEdit-RegistrationLogin",
+			  "sessionExpiration":0,
+			  "rememberSessionExpiration":7776000,
+			  "storageDomainOverride":"login1.kpmg.com",
+			  "customLang":{
+				 "kpmg_sign_up_header":"Sign up with an existing account",
+				 "kpmg_sign_up_text":"Please provide some personal information to set up your account. You can use a social media account, or you can manually enter your information.",
+				 "kpmg_already_have_an_account":"Already have an account?",
+				 "kpmg_log_in":"Log in",
+				 "kpmg_learn_more":"Learn more",
+				 "kpmg_create_an_account":"Create an account",
+				 "kpmg_required":"Required",
+				 "kpmg_info_email":"This email address will be used when logging into your KPMG account.",
+				 "kpmg_info_password":"Password must contain at least 8 characters including 1 number, 1 upper-case, 1 lower-case letter.",
+				 "kpmg_privacy_statement_text":"I acknowledge that I have read and understood the terms stated in the",
+				 "kpmg_privacy_statement_link_text":"KPMG Online Privacy Statement",
+				 "kpmg_captcha_text":"Please confirm your registration by entering the two words in the field below, separated by a space.",
+				 "kpmg_cancel":"Cancel",
+				 "kpmg_continue":"Continue",
+				 "kpmg_social_sign_in_header":"Signed in with",
+				 "kpmg_social_sign_in_text":"You are signed in with the social account that you registered with",
+				 "kpmg_cancel_registration_header":"Cancel Registration?",
+				 "kpmg_cancel_registration_text":"Are you sure you want to cancel your registration?",
+				 "kpmg_go_back":"Go Back",
+				 "kpmg_registration_done_header":"Thank You For Registering.",
+				 "kpmg_thank_you_text":"Thank you for registering. You can explore your dashboard or you can return to the article you just saved.",
+				 "kpmg_go_to_mykpmg":"Go to dashboard",
+				 "kpmg_return_to_my_article":"Return to my article",
+				 "kpmg_error_tc_authored_msg_tc1":"Please provide acknowledgement for the online privacy statement",
+				 "kpmg_error_tc_authored_msg_tc2":"Please select this checkbox to continue.",
+				 "kpmg_error_tc_authored_msg_tc3":"Please select this checkbox to continue.",
+				 "kpmg_privacy_acceptance_error_msg_tc1":"Please provide acknowledgement for the online privacy statement",
+				 "kpmg_welcome_back":"Welcome back, ",
+				 "kpmg_sign_in_header":"Sign in with an existing account",
+				 "kpmg_not_yet_registered":"Not yet registered?",
+				 "kpmg_use_your_kpmg_login_credentials":"Use your KPMG login credentials",
+				 "kpmg_i_forgot_my_password":"I forgot my password",
+				 "kpmg_keep_me_signed_in":"Keep me signed in",
+				 "kpmg_forgot_password_header":"Forgot My Password",
+				 "kpmg_forgot_password_text":"Please enter your email address to reset your password.",
+				 "kpmg_reset_password":"Reset Password",
+				 "kpmg_forgot_password_thank_you_text":"Thank you. If the email address provided is registered with KPMG, we will send an email containing a link to reset your password.",
+				 "kpmg_return_to_login":"Return to login",
+				 "kpmg_info_password_first":"Password must contain at least:",
+				 "kpmg_info_password_second":"8 characters including 1 number, 1 upper-case, 1 lower-case letter.",
+				 "kpmg_reset_password_thank_you_text":"Thank you. Your password has been reset.",
+				 "kpmg_too_many_failed_attempts_header":"Too Many Failed Attempts",
+				 "kpmg_too_many_failed_attempts_text":"Your account has been locked for 24 hours. You may wish to reset your password.",
+				 "account_is_disabled":"Account is disabled",
+				 "account_temporarily_locked_out":"Account temporarily locked out",
+				 "and":"and",
+				 "available":"Available",
+				 "checking":"Checking",
+				 "choose_file":"Choose File",
+				 "email_address_is_invalid":"E-mail address is invalid.",
+				 "email_already_exists":"Email already exists",
+				 "fair":"Fair",
+				 "invalid_fieldname":"Invalid %fieldname",
+				 "invalid_login_or_password":"Invalid login or password",
+				 "invalid_username_or_password":"Invalid username or password",
+				 "login_identifier_exists":"Login identifier exists",
+				 "maximum_size_of_3mb.":"Maximum size of 3MB.",
+				 "no_file_chosen":"No file chosen",
+				 "not_available":"Not available",
+				 "num_characters_total":"%num characters",
+				 "num_of_the_following_groups":"%num of the following: An uppercase letter, a lowercase letter, a number, a special symbol",
+				 "password_does_not_meet_complexity_requirements":"Password does not meet complexity requirements",
+				 "password_must_contain_at_least":"Password must contain at least",
+				 "password_strength_colon":"Password must contain at least:",
+				 "passwords_do_not_match":"Passwords do not match",
+				 "old_password_cannot_be_the_same_as_new_password":"New password should not be same as old password",
+				 "please_enter_a_valid_fieldname":"Please enter a valid %fieldname",
+				 "please_enter_fieldname":"Please enter %fieldname",
+				 "profilePhoto_fileSizeError":"Photo format: JPG/GIF/PNG. Size: up to 3MB.",
+				 "sorry_we_are_not_able_to_process_your_registration":"Sorry, we are not able to process your registration",
+				 "strong":"Strong",
+				 "there_are_errors_in_your_form_please_try_again":"There are errors in your form, please try again",
+				 "there_is_no_user_with_that_username_or_email":"There is no user with that username or email",
+				 "these_passwords_do_not_match":"These passwords do not match",
+				 "this_field_is_required":"This field is required",
+				 "too_weak":"Too weak",
+				 "unique_identifier_exists":"Unique identifier exists",
+				 "username_already_exists":"Username already exists",
+				 "very_strong":"Very strong",
+				 "weak":"Weak",
+				 "wrong_password":"Wrong password",
+				 "your_age_does_not_meet_the_minimal_age_requirement":"Your age does not meet the minimal age requirement (13+) for this site",
+				 "the_characters_you_entered_didn't_match_the_word_verification._please_try_again":"The characters you entered didn't match the word "
+			  },
+			  "customEventMap":{
+				 "eventMap":[
+					{
+					   "events":"*",
+					   "args":[
+						  "$event"
+					   ]
+					}
+				 ]
+			  },
+			  "lang":"en",
+			  "APIKey":"3_e2ggAN5_ZqWrSNeM0HSHMYT8P16JqxINgs88bIrpCmPIiLJZ4zOqT69Wy7I6UByO",
+			  "include":"identities-active,identities-all,loginIDs,emails,subscriptions,preferences,profile,data,irank",
+			  "extraProfileFields":"nickname,photoURL,thumbnailURL,profileURL,state,city,hometown,zip,languages,address,phones,education,honors,publications,patents,certifications,professionalHeadline,bio,industry,specialties,skills,religion,politicalView,interestedIn,relationshipStatus,hometown,favorites,likes,followersCount,followingCount,iRank,timezone,work,companyID,description,endDate,industry,isCurrent,location,startDate,companySize,gender,educationLevel,degree,endYear,fieldOfStudy,school,schoolType,startYear"
+		   },
+		   "operation":"/accounts.getAccountInfo"
+		}
+		,
+		"isUserLoggedIn": true
+	}
+
+}

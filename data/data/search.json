@@ -1,0 +1,31 @@
+{
+	"serverData": {
+	   "queryParams":{
+		  "typeahead":{
+			 "FILTER":"DE=97508671404166678130047",
+			 "DE":"911585936114992138793999544768229",
+			 "prefix_results":"100",
+			 "language":"en_us",
+			 "lang":"en_us",
+			 "service":"PREFIX",
+			 "TBDB":"disp_taxonomy",
+			 "template":"service.json"
+		  }
+	   },
+	   "config":{
+		  "searchResultsPath":"/content/kpmgpublic/xx/en/home/misc/search.html",
+		  "typeaheadWait":"250",
+		  "placeholder":"Search"
+	   }
+	},
+	"server_query_params_original": {
+		"commonModelId": "97508671404166678130047",
+		"localCountryModelId": "911585936114992138793999544768229",
+		"searchLanguage": "en_us",
+		"searchResultPath": "/xx/en/home/misc/search.html",
+		"sesPrefixResultsLimit": 200,
+		"yourRecentSearchCopy": "Your recent searches"
+	},
+	"selectedItem": {},
+	"query":""
+}

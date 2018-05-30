@@ -1,0 +1,38 @@
+{
+  "name": "kpmg-vue",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "Akash <ashah10@sapient.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint",
+    "kpmg-css": "node-sass assets/scss/css-file-generated-for-kpmg-main-project/bootstrap-4.scss assets/bootstrap-4.css"
+  },
+  "dependencies": {
+    "animate.css": "^3.6.1",
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "less": "^3.0.1",
+    "less-loader": "^4.1.0",
+    "moment": "^2.22.1",
+    "nuxt": "^1.4.0",
+    "popper.js": "^1.12.9",
+    "underscore": "^1.8.3",
+    "vue-i18n": "^7.4.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-loader": "^1.7.1",
+    "eslint-plugin-vue": "^4.0.0",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6"
+  }
+}

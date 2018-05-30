@@ -1,0 +1,755 @@
+{	
+	"personalization": {
+            "foo": "bar"
+        }
+        ,
+        "siteInfo": {
+            "assetsDomain": "https://ce-home.kpmg.com", 
+			"isAuthor": "false", 
+			"isPersonalized": "true"
+        }
+        ,
+		"server_content": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:mixinTypes": ["rep:AccessControllable"],
+    "jcr:createdBy": "admin",
+    "jcr:created": "Fri Feb 23 2018 10:06:49 GMT+0530",
+    "jcr:content": {
+        "jcr:primaryType": "cq:PageContent",
+        "jcr:mixinTypes": ["mix:versionable"],
+        "sl-persona-path": ["Personas/Audience",
+        "Personas/Clients",
+        "Personas/Potential Clients"],
+        "sl-geography-qualifiedName": ["Europa/Europa del Sur",
+        "Europa/Europa del Sur/España",
+        "Europe"],
+        "sl-geography-unm49-subsubregion": [" ",
+        " ",
+        " "],
+        "imageFileReference": "/content/dam/kpmg/images/2015/01/kpmg-enterance.jpg",
+        "jcr:createdBy": "admin",
+        "jcr:title": "Home",
+        "unchecked": "index, follow",
+        "cq:lastReplicationAction": "Activate",
+        "seoChangeFrequency": "hourly",
+        "sl-content-id": ["79679712788925532162634",
+        "80649788474266017984925"],
+        "jcr:versionHistory": "6bc2046f-e40a-44e4-ae1d-94085e8e6c19",
+        "offTime": "Mon Dec 30 2030 09:10:43 GMT+0000",
+        "sl-geography-id-displayPath": ["204738940889497698734602/175152830759242305630391",
+        "204738940889497698734602/175152830759242305630391/138006470634284989611521",
+        "204738940889497698734602"],
+        "sl-geography-iso3166-2": [" ",
+        "ES",
+        " "],
+        "sl-geography-iso3166-3": [" ",
+        "ESP",
+        " "],
+        "commentId": "OC01M1422619058747",
+        "cq:template": "/apps/kpmgpublic/templates/homepage-template",
+        "cq:lastReplicatedBy": "workflow-process-service",
+        "sl-media-id-path": ["164000807485345111581424/150162736518618207282726",
+        "164000807485345111581424/150162736518618207282726/143236010378065923659239"],
+        "jcr:shortDescription": "KPMG en España presta servicios de auditoría, fiscales y de asesoramiento...",
+        "sl-persona-id": ["549916431768785771034065349584824",
+        "59205189396461572826360",
+        "60541426764903813537507"],
+        "sl-content-id-displayPath": ["79679712788925532162634",
+        "79679712788925532162634/80649788474266017984925"],
+        "sl-media-id-displayPath": ["150162736518618207282726",
+        "150162736518618207282726/143236010378065923659239"],
+        "sl-content-path": ["Content type/System Pages",
+        "Content type/System Pages/My Home Page"],
+        "onTime": "Wed Dec 31 2014 15:36:00 GMT+0100",
+        "sl-media-id": ["150162736518618207282726",
+        "143236010378065923659239"],
+        "sl-persona-id-displayPath": ["549916431768785771034065349584824",
+        "59205189396461572826360",
+        "60541426764903813537507"],
+        "sl-geography-unm49-region": [" ",
+        " ",
+        "150"],
+        "jcr:predecessors": ["4e9a7aa3-9f25-405f-9743-ed011d4393cd"],
+        "sl-geography-id-path": ["93812326507033629793301/204738940889497698734602/175152830759242305630391",
+        "93812326507033629793301/204738940889497698734602/175152830759242305630391/138006470634284989611521",
+        "93812326507033629793301/204738940889497698734602"],
+        "languageLocale": "es_ES",
+        "jcr:created": "Sun Mar 04 2018 09:43:50 GMT+0530",
+        "imageAltText": "KPMG entrance",
+        "cq:lastReplicated": "Wed Dec 20 2017 11:03:50 GMT+0000",
+        "sl-content-qualifiedName": ["System Pages",
+        "System Pages/My Home Page"],
+        "cq:lastModified": "Wed Dec 20 2017 11:02:02 GMT+0000",
+        "jcr:htmlTitle": "KPMG en España",
+        "sl-geography-iso3166": [" ",
+        "724",
+        " "],
+        "sl-media-path": ["Media formats/Document",
+        "Media formats/Document/PDF"],
+        "sl-geography-unm49-subregion": ["39",
+        " ",
+        " "],
+        "sl-geography-title": ["Americas",
+        "Oceania",
+        "Europe",
+        "Africa",
+        "Asia"],
+        "sl-geography-id": ["175152830759242305630391",
+        "138006470634284989611521",
+        "204738940889497698734602"],
+        "jcr:description": "KPMG en España presta servicios de auditoría, fiscales y de asesoramiento legal, financiero y de negocio.",
+        "jcr:baseVersion": "4e9a7aa3-9f25-405f-9743-ed011d4393cd",
+        "geoOrigin": "ES",
+        "sl-geography-path": ["Geografía/Europa/Europa del Sur",
+        "Geografía/Europa/Europa del Sur/España",
+        "Geography/Europe"],
+        "businessOwner": "KPMG",
+        "jcr:isCheckedOut": true,
+        "sl-content-id-path": ["53054337506891119764226/79679712788925532162634",
+        "53054337506891119764226/79679712788925532162634/80649788474266017984925"],
+        "checked": "noindex, nofollow",
+        "sl-media-qualifiedName": ["Document",
+        "Document/PDF"],
+        "jcr:uuid": "b762facd-d2fa-4a55-9e12-2ea07e69b07c",
+        "seopriority": "1.0",
+        "jcr:shortTitle": "KPMG en España",
+        "sling:resourceType": "/apps/kpmgpublic/components/page/homepage-template-page",
+        "numberofitems": "0",
+        "sl-geography-keyword": [" ",
+        " "],
+        "cq:allowedTemplates": ["/apps/kpmgpublic/templates/aboutlanding-template",
+        "/apps/kpmgpublic/templates/alumnilanding-template",
+        "/apps/kpmgpublic/templates/article-details-template",
+        "/apps/kpmgpublic/templates/assetfreshness-report-template",
+        "/apps/kpmgpublic/templates/base-template",
+        "/apps/kpmgpublic/templates/boilerplate-template",
+        "/apps/kpmgpublic/templates/campaign-container-template",
+        "/apps/kpmgpublic/templates/campaignevent-template",
+        "/apps/kpmgpublic/templates/campaigntopic-template",
+        "/apps/kpmgpublic/templates/careerslanding-template",
+        "/apps/kpmgpublic/templates/contact-details-template",
+        "/apps/kpmgpublic/templates/contact-form-template",
+        "/apps/kpmgpublic/templates/contactpage-template",
+        "/apps/kpmgpublic/templates/contacts-container-template",
+        "/apps/kpmgpublic/templates/contentfreshness-report-template",
+        "/apps/kpmgpublic/templates/duplicateasset-report-template",
+        "/apps/kpmgpublic/templates/error-container-template",
+        "/apps/kpmgpublic/templates/error-template",
+        "/apps/kpmgpublic/templates/eventdetail-template",
+        "/apps/kpmgpublic/templates/eventslanding-template",
+        "/apps/kpmgpublic/templates/generic-migration-template",
+        "/apps/kpmgpublic/templates/genericabout-template",
+        "/apps/kpmgpublic/templates/homepage-template",
+        "/apps/kpmgpublic/templates/industrieslanding-template",
+        "/apps/kpmgpublic/templates/industrylanding-template",
+        "/apps/kpmgpublic/templates/insightslanding-template",
+        "/apps/kpmgpublic/templates/kpmgcontainer-template",
+        "/apps/kpmgpublic/templates/location-details-template",
+        "/apps/kpmgpublic/templates/magazinelanding-template",
+        "/apps/kpmgpublic/templates/managedlist-template",
+        "/apps/kpmgpublic/templates/manual-country-language-designation-selector-template",
+        "/apps/kpmgpublic/templates/medialanding-template",
+        "/apps/kpmgpublic/templates/misc-container-template",
+        "/apps/kpmgpublic/templates/month-container-template",
+        "/apps/kpmgpublic/templates/newsletterlanding-template",
+        "/apps/kpmgpublic/templates/officelocations-template",
+        "/apps/kpmgpublic/templates/people-sub-landing-template",
+        "/apps/kpmgpublic/templates/photogalleries-template",
+        "/apps/kpmgpublic/templates/pressreleases-template",
+        "/apps/kpmgpublic/templates/rfp-form-template",
+        "/apps/kpmgpublic/templates/sampletemplate",
+        "/apps/kpmgpublic/templates/searchresults-template",
+        "/apps/kpmgpublic/templates/servicelanding-o-template",
+        "/apps/kpmgpublic/templates/servicelanding-q-template",
+        "/apps/kpmgpublic/templates/servicelanding-r-template",
+        "/apps/kpmgpublic/templates/settings-template",
+        "/apps/kpmgpublic/templates/sitemap-template",
+        "/apps/kpmgpublic/templates/sl-bulkupdate-template",
+        "/apps/kpmgpublic/templates/socialdisabled-template",
+        "/apps/kpmgpublic/templates/socialenabled-template",
+        "/apps/kpmgpublic/templates/toopage-template",
+        "/apps/kpmgpublic/templates/topic-landing-template",
+        "/apps/kpmgpublic/templates/year-container-template",
+        "/apps/kpmgpublic/templates/optional-container-template",
+        "/apps/kpmgpublic/templates/html-template",
+        "/apps/kpmgpublic/templates/careers-subpage-template",
+        "/apps/kpmgpublic/templates/newcontactpage-template",
+        "/apps/kpmgpublic/templates/mydashboard-template",
+        "/apps/kpmgpublic/templates/mycontainer-template",
+        "/apps/kpmgpublic/templates/services-flexible-template",
+        "/apps/kpmgpublic/templates/industries-flexible-template"],
+        "sl-geography-id-local": [],
+        "businessOwnerGroup": "ES – ES – Corporativo",
+        "sl-persona-id-path": ["55463311195631660891109/549916431768785771034065349584824",
+        "55463311195631660891109/59205189396461572826360",
+        "55463311195631660891109/60541426764903813537507"],
+        "cq:lastModifiedBy": "balaez@kpmg.es",
+        "sl-persona-qualifiedName": ["Audience",
+        "Clients",
+        "Potential Clients"],
+        "imageRotate": "0",
+        "promotionala": {
+            "jcr:primaryType": "nt:unstructured", "imageFileReference": "/content/dam/kpmg/xx/images/2017/06/african-american-man-interacting-with-invisible-screen.jpg", "dwtype": "regular", "primaryUrl": "https://home.kpmg.com/es/es/home/insights/2017/06/ceo-outlook.html#landing", "contentPopulate": "auto", "jcr:lastModifiedBy": "balaez@kpmg.es", "adwtype": "regular", "altText": "CEO Outlook 2017", "contentSource": "/content/kpmgpublic/es/es/home/media/press-releases/2017/11/situacion-pensiones-en-espana", "title": "CEO Outlook 2017. Edición España", "manualTypeContent": "others", "jcr:lastModified": "Tue Nov 28 2017 15:21:38 GMT+0000", "sling:resourceType": "kpmgpublic/components/global/promotionalcomponent", "shortTitle": "CEO Outlook 2017. Edición España", "longDescription": "Disrupción y crecimiento ", "shortDescription": "Disrupción y crecimiento ", "autoTypeContent": "others", "imageRotate": "0"
+        }
+        ,
+        "socialwidget": {
+            "jcr:primaryType": "nt:unstructured",
+            "jcr:lastModifiedBy": "memendoza@kpmg.ca",
+            "type": "false",
+            "feeds": "50",
+            "title": "@KPMG_ES",
+            "showHeader": "true",
+            "showImages": "true",
+            "country": "spain",
+            "jcr:lastModified": "Wed Jul 15 2015 13:41:18 GMT+0000",
+            "sling:resourceType": "kpmgpublic/components/social/socialwidget",
+            "indexableBySnP": "true",
+            "socialchannels": {
+                "jcr:primaryType": "nt:unstructured", "jcr:lastModifiedBy": "pawan_devuser", "jcr:lastModified": "Mon Feb 16 2015 05:48:07 GMT+0000", "sling:resourceType": "kpmgpublic/components/social/socialwidgetsocialchannels", "indexableBySnP": "true"
+            }
+        }
+        ,
+        "dynamic": {
+            "jcr:primaryType": "nt:unstructured", "metaOgSiteSettings": "KPMG", "metaOgDescription": "KPMG en España presta servicios de auditoría, fiscales y de asesoramiento legal, financiero y de negocio.", "metaOgImage": "/content/dam/kpmg/images/2015/01/kpmg-enterance.jpg", "metaOgTitle": "KPMG International", "metaOgLangauage": "es"
+        }
+        ,
+        "migration": {
+            "jcr:primaryType": "nt:unstructured"
+        }
+        ,
+        "herocarousel": {
+            "jcr:primaryType": "nt:unstructured", "optionalCtaLabel": ["", "", "", "", ""], "description": ["Innovate. Disrupt.Grow", "El Instituto de la Empresa Familiar en colaboración con KPMG presentan esta nueva edición del barómetro", "‘Fintech: Innovación al servicio del cliente’ es un informe elaborado por KPMG y Funcas que analiza el mercado Fintech español", "Innovación, data & analytics, ciberseguridad, transparencia, estrategia y confianza"], "optionalCtaUrl": ["", "", "", ""], "byLine": ["", "", "", "", ""], "jcr:lastModifiedBy": "balaez@kpmg.es", "primaryCtaUrl": ["https://home.kpmg.com/xx/en/home/campaigns/2017/12/international-annual-review.html?cid=van_annualreview-sx_xx-acx_2017-com-iar-2017#introduction", "https://home.kpmg.com/es/es/home/insights/2017/12/vi-barometro-europeo-empresa-familiar.html", "https://home.kpmg.com/es/es/home/tendencias/2017/11/fintech-innovacion-servicios-cliente.html", "https://home.kpmg.com/es/es/home/campaigns/2017/07/anticipate-tomorrow-deliver-today.html"], "altText": ["KPMG International Annual Review 2017", "https://home.kpmg.com/es/es/home/insights/2017/12/vi-barometro-europeo-empresa-familiar.html", "Fintech: Innovación al servicio del cliente", "KPMG Innovación"], "carousel": "4", "image": ["/content/dam/kpmg/xx/images/2017/12/international-annual-review-cover.jpg", "/content/dam/kpmg/es/images/2017/12/vi-barometro-empresa-familiar.jpg", "/content/dam/kpmg/es/images/2017/11/Portada_Informe_Funcas_SIN.JPG", "/content/dam/kpmg/es/pdf/2016/11/nuevos-competidores-innovacion.jpg"], "title": ["KPMG International Annual Review 2017", "VI Barómetro Europeo de la Empresa Familiar", "Fintech: Innovación al servicio del cliente", "Anticipate tomorrow. Deliver today"], "variant": ["variant_1", "variant_2", "variant_1", "variant_2"], "primaryCtaLabel": ["Síguela en directo", "Consulta el informe", "Leer más", "Leer más", "Nuestros servicios"], "jcr:lastModified": "Thu Dec 14 2017 14:09:23 GMT+0000", "sling:resourceType": "kpmgpublic/components/listing/herocarousel", "indexableBySnP": "true", "panelPosition": ["Centre", "Left", "Left", "Left", "Left"], "shortTitle": ["KPMG International Annual Review 2017", "VI Barómetro Europeo de la Empresa Familiar", "Fintech: Innovación al servicio del cliente", "Anticipate tomorrow. Deliver today"], "shortDescription": ["Innovate. Disrupt.Grow", "El Instituto de la Empresa Familiar en colaboración con KPMG presentan esta nueva edición del barómetro", "‘Fintech: Innovación al servicio del cliente’ es un informe elaborado por KPMG y Funcas que analiza el mercado Fintech español", "Innovación, data & analytics, ciberseguridad, transparencia, estrategia y confianza"]
+        }
+        ,
+        "cell8": {
+            "jcr:primaryType": "nt:unstructured",
+            "sling:resourceType": "kpmgpublic/components/hidden/placeholder",
+            "articleeventfilmstri": {
+                "jcr:primaryType": "nt:unstructured", "jcr:createdBy": "mruiz1@kpmg.es", "showTitle": "true", "jcr:lastModifiedBy": "vicentehugovazquez@kpmg.es", "jcr:created": "Thu Jun 18 2015 10:16:20 GMT+0000", "jcr:lastModified": "Tue Sep 22 2015 07:42:47 GMT+0000", "sling:resourceType": "kpmgpublic/components/content/articleeventfilmstrip"
+            }
+        }
+        ,
+        "footer": {
+            "jcr:primaryType": "nt:unstructured",
+            "jcr:lastModifiedBy": "geetanjaliy@kpmg.com",
+            "copyrightList": "/content/kpmgpublic/platform/copyright/jcr:content/managedlistpar/copyright_5",
+            "helpLink": "/content/kpmgpublic/es/es/home/misc/help",
+            "glossaryLink": "/content/kpmgpublic/es/es/home/misc/glossary",
+            "accessibilityLink": "/content/kpmgpublic/es/es/home/misc/accessibility",
+            "contactLink": "/content/kpmgpublic/es/es/home/misc/contacto-kpmg",
+            "optionalLabel": "Política de Cookies ",
+            "jcr:lastModified": "Tue Dec 05 2017 04:09:10 GMT+0000",
+            "sling:resourceType": "kpmgpublic/components/hidden/footer",
+            "privacyLink": "/content/kpmgpublic/es/es/home/misc/privacy",
+            "optionalLink": "https://home.kpmg.com/es/es/home/misc/politica-cookies.html",
+            "sitemapLink": "/content/kpmgpublic/es/es/home/misc/sitemap",
+            "legalLink": "/content/kpmgpublic/es/es/home/misc/legal",
+            "SocialChannels": {
+                "jcr:primaryType": "nt:unstructured", "jcr:lastModifiedBy": "lvilar@kpmg.ca", "jcr:lastModified": "Wed Jul 19 2017 20:49:38 GMT+0000", "sling:resourceType": "kpmgpublic/components/social/footersocialchannels", "footerSocialChannels": ["ES – ES – Twitter", "ES – ES – Linkedin", "ES – ES – YouTube", "ES – ES – Google+", "ES – ES – Facebook"]
+            }
+        }
+        ,
+        "navigation": {
+            "jcr:primaryType": "nt:unstructured",
+            "contactlinkurl": "/content/kpmgpublic/es/es/home/misc/contacto-kpmg",
+            "servicesurl": "/content/kpmgpublic/es/es/home/services",
+            "jcr:lastModifiedBy": "geetanjaliy@kpmg.com",
+            "mediaurl": "/content/kpmgpublic/es/es/home/media",
+            "imageSrc": "/content/dam/kpmg/images/platform/KPMG.png",
+            "socialurl": "/content/kpmgpublic/es/es/home/social",
+            "industriesurl": "/content/kpmgpublic/es/es/home/industries",
+            "optionalurl": "/content/kpmgpublic/es/es/home/fundacion",
+            "alumniurl": "https://www.kpmg.es/alumni/index.php",
+            "careerurl": "/content/kpmgpublic/es/es/home/careers",
+            "eventsurl": "/content/kpmgpublic/es/es/home/eventos",
+            "optionaltext2": "Blogs",
+            "logoalttext": "KPMG logo",
+            "jcr:lastModified": "Tue Dec 05 2017 04:08:38 GMT+0000",
+            "insightsurl": "/content/kpmgpublic/es/es/home/insights",
+            "sling:resourceType": "kpmgpublic/components/global/navigation",
+            "homepageurl": "/content/kpmgpublic/es/es/home",
+            "abouturl": "/content/kpmgpublic/es/es/home/about",
+            "optionaltext": "Fundación",
+            "optionalurl2": "/content/kpmgpublic/es/es/home/blogs",
+            "services": {
+                "jcr:primaryType": "nt:unstructured",
+                "cellTwoList": "0",
+                "cellTwoFeaturedItemDescription": "Una nueva línea de negocio de KPMG orientada a las micro y pequeñas empresas",
+                "cellTwoFeaturedItemUrl": "/content/kpmgpublic/es/es/home/services/kpmg-impulsa",
+                "cellOneUrl": ["/content/kpmgpublic/es/es/home/services/audit",
+                "/content/kpmgpublic/es/es/home/services/advisory/deal-advisory",
+                "/content/kpmgpublic/es/es/home/services/advisory/management-consulting",
+                "/content/kpmgpublic/es/es/home/services/advisory/risk-consulting",
+                "https://home.kpmg.com/es/es/home/servicios/abogados.html"],
+                "jcr:lastModifiedBy": "balaez@kpmg.es",
+                "cellTwoOptions": "celltwofeaturedoption",
+                "cellThreeFeaturedItemAltText": "KPMG Innova",
+                "viewAllLink": "/content/kpmgpublic/es/es/home/services",
+                "cellOneLabel": ["Auditoría & Assurance",
+                "Deal Advisory",
+                "Management Consulting",
+                "Risk Consulting",
+                "KPMG Abogados"],
+                "cellThreeFeaturedItemUrl": "https://home.kpmg.com/es/es/home/servicios/kpmg-innova.html",
+                "cellThreeFeaturedItemHeading": "KPMG Innova",
+                "isCellOneSubList": ["yes",
+                "yes",
+                "yes",
+                "yes",
+                "yes",
+                "yes"],
+                "jcr:lastModified": "Wed Nov 29 2017 09:59:01 GMT+0000",
+                "cellThreeFeaturedItemDescription": "Un punto de encuentro de compañías focalizadas en soluciones innovadoras para la transformación de los negocios\n",
+                "cellThreeList": "0",
+                "cellTwoFeaturedItemAltText": "KPMG Impulsa Pymes",
+                "sling:resourceType": "kpmgpublic/components/global/flyoutnavigationpanel",
+                "viewAllLabel": "Servicios",
+                "cellOneList": "5",
+                "image1": {
+                    "jcr:primaryType": "nt:unstructured", "fileReference": "/content/dam/kpmg/es/images/2017/02/kpmg-impulsa-servicios-mercantiles.jpg", "jcr:lastModifiedBy": "balaez@kpmg.es", "jcr:lastModified": "Wed Nov 29 2017 09:59:01 GMT+0000"
+                }
+                ,
+                "image2": {
+                    "jcr:primaryType": "nt:unstructured", "fileReference": "/content/dam/kpmg/es/images/2017/11/kpmg-innova-slider.jpg", "jcr:lastModifiedBy": "balaez@kpmg.es", "jcr:lastModified": "Wed Nov 29 2017 09:59:01 GMT+0000", "imageRotate": "0"
+                }
+            }
+            ,
+            "insights": {
+                "jcr:primaryType": "nt:unstructured",
+                "cellTwoList": "0",
+                "cellTwoFeaturedItemDescription": "La internacionalización es un proceso complejo cuyo éxito está condicionado por una serie de decisiones clave en las que podemos apoyarte",
+                "cellTwoFeaturedItemUrl": "https://home.kpmg.com/es/es/home/tendencias/2016/09/internacionalizacion.html",
+                "cellOneUrl": ["https://home.kpmg.com/es/es/home/insights/2017/12/know-novedades-juridicas-fiscales-61.html",
+                "https://home.kpmg.com/xx/en/home/campaigns/2017/12/international-annual-review.html?cid=van_annualreview-sx_xx-acx_2017-com-iar-2017#introduction",
+                "https://home.kpmg.com/es/es/home/insights/2017/12/vi-barometro-europeo-empresa-familiar.html",
+                "https://home.kpmg.com/es/es/home/tendencias/2017/11/fintech-innovacion-servicios-cliente.html",
+                "https://home.kpmg.com/es/es/home/tendencias/2017/11/3-estudio-sector-agroalimentario-andalucia.html"],
+                "cellTwoFeaturedItemHeading": "Internacionalización ",
+                "jcr:lastModifiedBy": "balaez@kpmg.es",
+                "cellTwoOptions": "celltwofeaturedoption",
+                "cellThreeFeaturedItemAltText": "Gestionar el Brexit",
+                "viewAllLink": "/content/kpmgpublic/es/es/home/insights",
+                "cellOneLabel": ["KNOW. Novedades Jurídicas y Legales nº61",
+                "KPMG International Annual Review 2017",
+                "VI Barómetro Europeo de la Empresa Familiar",
+                "Fintech: Innovación al servicio del cliente",
+                "III Estudio del Sector Agroalimentario de Andalucía"],
+                "cellThreeFeaturedItemUrl": "https://home.kpmg.com/es/es/home/campaigns/2016/07/brexit.html",
+                "cellThreeFeaturedItemHeading": "Gestionar el Brexit",
+                "isCellOneSubList": ["",
+                "yes",
+                "yes",
+                "yes",
+                "yes"],
+                "jcr:lastModified": "Wed Dec 20 2017 09:33:52 GMT+0000",
+                "cellThreeFeaturedItemDescription": "Riesgos y oportunidades",
+                "cellThreeList": "0",
+                "sling:resourceType": "kpmgpublic/components/global/flyoutnavigationpanel",
+                "viewAllLabel": "Informes y tendencias",
+                "cellOneList": "5",
+                "image1": {
+                    "jcr:primaryType": "nt:unstructured", "fileReference": "/content/dam/kpmg/images/2016/07/fb-regions-1500x1000.jpg", "jcr:lastModifiedBy": "balaez@kpmg.es", "jcr:lastModified": "Wed Dec 20 2017 09:33:52 GMT+0000"
+                }
+                ,
+                "image2": {
+                    "jcr:primaryType": "nt:unstructured", "fileReference": "/content/dam/kpmg/es/images/2017/02/perspectivas-brexit.jpg", "jcr:lastModifiedBy": "balaez@kpmg.es", "jcr:lastModified": "Wed Dec 20 2017 09:33:52 GMT+0000", "imageRotate": "0"
+                }
+            }
+            ,
+            "industries": {
+                "jcr:primaryType": "nt:unstructured",
+                "cellTwoList": "0",
+                "cellTwoFeaturedItemDescription": "Tenemos un profundo conocimiento en claves estratégicas del sector.",
+                "cellTwoFeaturedItemUrl": "/content/kpmgpublic/es/es/home/industries/banking",
+                "cellOneUrl": ["/content/kpmgpublic/es/es/home/industries/infrastructure",
+                "/content/kpmgpublic/es/es/home/industries/real-estate",
+                "/content/kpmgpublic/es/es/home/industries/automotive",
+                "/content/kpmgpublic/es/es/home/industries/food-drink-consumer-goods",
+                "/content/kpmgpublic/es/es/home/industries/government-public-sector",
+                "/content/kpmgpublic/es/es/home/industries/healthcare",
+                "/content/kpmgpublic/es/es/home/industries/private-equity"],
+                "cellTwoFeaturedItemHeading": "Banca",
+                "jcr:lastModifiedBy": "vicentehugovazquez@kpmg.es",
+                "cellTwoOptions": "celltwofeaturedoption",
+                "cellThreeFeaturedItemAltText": "Energía y Recursos naturales",
+                "viewAllLink": "/content/kpmgpublic/es/es/home/industries",
+                "cellOneLabel": ["Infraestructuras",
+                "Real Estate",
+                "Automoción",
+                "Consumo y Distribución",
+                "Gobierno",
+                "Sanidad",
+                "Private Equity"],
+                "cellThreeFeaturedItemUrl": "/content/kpmgpublic/es/es/home/industries/energy",
+                "cellThreeFeaturedItemHeading": "Energía y Recursos naturales",
+                "isCellOneSubList": ["yes",
+                "yes",
+                "yes",
+                "yes",
+                "yes",
+                "yes",
+                "yes"],
+                "jcr:lastModified": "Fri Sep 25 2015 07:55:50 GMT+0000",
+                "cellThreeFeaturedItemDescription": "Ayudamos a las empresas a generar valor en cada una de los negocios de la cadena de valor.",
+                "cellThreeList": "0",
+                "cellTwoFeaturedItemAltText": "Banca",
+                "sling:resourceType": "kpmgpublic/components/global/flyoutnavigationpanel",
+                "viewAllLabel": "Sectores",
+                "cellOneList": "7",
+                "image1": {
+                    "jcr:primaryType": "nt:unstructured", "fileReference": "/content/dam/kpmg/images/2015/05/ISG-Bank-statement-Q1-15.jpg", "jcr:lastModifiedBy": "vicentehugovazquez@kpmg.es", "jcr:lastModified": "Fri Sep 25 2015 07:55:50 GMT+0000"
+                }
+                ,
+                "image2": {
+                    "jcr:primaryType": "nt:unstructured", "fileReference": "/content/dam/kpmg/images/2015/05/satelite-dishes-pointing-skyward.jpg", "jcr:lastModifiedBy": "vicentehugovazquez@kpmg.es", "jcr:lastModified": "Fri Sep 25 2015 07:55:50 GMT+0000", "imageRotate": "0"
+                }
+            }
+            ,
+            "events": {
+                "jcr:primaryType": "nt:unstructured",
+                "cellTwoList": "5",
+                "cellTwoFeaturedItemDescription": "La banca ante los retos de la regulación, la rentabilidad y la digitalización",
+                "cellTwoFeaturedItemUrl": "https://home.kpmg.com/es/es/home/eventos/2017/09/vii-encuentro-financiero-expansion-kpmg.html",
+                "cellOneUrl": ["https://home.kpmg.com/es/es/home/eventos/2017/09/vii-encuentro-financiero-expansion-kpmg.html",
+                "https://home.kpmg.com/es/es/home/eventos/2017/06/smart-data-spain-summit-2017.html",
+                "https://home.kpmg.com/es/es/home/eventos/2017/05/v-foro-anual-del-consejero.html"],
+                "cellTwoFeaturedItemHeading": "VIII Encuentro Financiero Expansión - KPMG",
+                "cellTwoUrl": ["/content/kpmgpublic/es/es/home/eventos/2015/10/congreso-de-directivos-cede",
+                "/content/kpmgpublic/xx/en/home/events/2015/03/power-utilities-conference-2015",
+                "/content/kpmgpublic/xx/en/home/events/2015/08/mexico-energy-conference",
+                "/content/kpmgpublic/xx/en/home/events/2015/08/global-shipping-conference-2015",
+                "/content/kpmgpublic/xx/en/home/events/2015/07/an-eye-to-the-future"],
+                "jcr:lastModifiedBy": "balaez@kpmg.es",
+                "cellTwoOptions": "celltwofeaturedoption",
+                "cellThreeFeaturedItemAltText": "Smart Data Spain Summit 2017",
+                "cellTwoLabel": ["Congreso de Directivos CEDE",
+                "KPMG Global Power & Utilities Conference",
+                "KPMG Global Energy Conference",
+                "KPMG Global Shipping Conference",
+                "An eye to the future Americas / EMA"],
+                "viewAllLink": "/content/kpmgpublic/es/es/home/eventos",
+                "cellOneLabel": ["VIII Encuentro Financiero Expansión - KPMG",
+                "Smart Data Spain Summit 2017",
+                "V Foro Anual del Consejero"],
+                "cellThreeFeaturedItemUrl": "https://home.kpmg.com/es/es/home/eventos/2017/06/smart-data-spain-summit-2017.html",
+                "cellThreeFeaturedItemHeading": "Smart Data Spain Summit 2017",
+                "isCellOneSubList": ["",
+                "",
+                "",
+                "",
+                ""],
+                "jcr:lastModified": "Tue Sep 26 2017 14:59:26 GMT+0000",
+                "isCellTwoSubList": ["",
+                "",
+                "",
+                "",
+                ""],
+                "cellThreeList": "0",
+                "cellTwoFeaturedItemAltText": "VIII Encuentro Financiero Expansión - KPMG",
+                "sling:resourceType": "kpmgpublic/components/global/flyoutnavigationpanel",
+                "viewAllLabel": "Eventos",
+                "cellOneList": "3",
+                "image1": {
+                    "jcr:primaryType": "nt:unstructured", "fileReference": "/content/dam/kpmg/es/images/2017/09/encuentro-financiero.JPG", "jcr:lastModifiedBy": "balaez@kpmg.es", "jcr:lastModified": "Tue Sep 26 2017 14:59:26 GMT+0000"
+                }
+                ,
+                "image2": {
+                    "jcr:primaryType": "nt:unstructured", "fileReference": "/content/dam/kpmg/images/2016/04/server-room-in-data-centre-shutterstock-292793306.jpg", "jcr:lastModifiedBy": "balaez@kpmg.es", "jcr:lastModified": "Tue Sep 26 2017 14:59:26 GMT+0000", "imageRotate": "0"
+                }
+            }
+        }
+        ,
+        "cell4": {
+            "jcr:primaryType": "nt:unstructured",
+            "sling:resourceType": "/apps/kpmgpublic/components/hidden/placeholder",
+            "promotionala_1": {
+                "jcr:primaryType": "nt:unstructured", "imageFileReference": "/content/dam/kpmg/images/2016/07/ie brexit hourglass.jpg", "dwtype": "single", "primaryUrl": "https://assets.kpmg.com/content/dam/kpmg/es/pdf/2017/12/legal-alert-lei.pdf", "contentPopulate": "manual", "jcr:lastModifiedBy": "balaez@kpmg.es", "eventStartDate": "11/04/15", "adwtype": "single", "altText": "DNI financiero (LEI)", "eventEndDate": "11/05/15", "contentSource": "/content/kpmgpublic/es/es/home/insights/2017/11/know-novedades-juridicas-fiscales-60", "eventCity": "Barcelona", "title": "DNI financiero (LEI)", "manualTypeContent": "others", "jcr:lastModified": "Mon Dec 04 2017 13:01:13 GMT+0000", "sling:resourceType": "kpmgpublic/components/global/promotionalcomponent", "shortTitle": "DNI financiero (LEI)", "longDescription": "Las sociedades que operen en mercados financieros deberán obtener un identificador similar a un DNI financiero antes del 3 de enero ", "eventCountry": "España", "shortDescription": "Las sociedades que operen en mercados financieros deberán obtener un identificador similar a un DNI financiero antes del 3 de enero ", "autoTypeContent": "others", "imageRotate": "0"
+            }
+        }
+        ,
+        "cell6": {
+            "jcr:primaryType": "nt:unstructured",
+            "contentPopulate": "double",
+            "sling:resourceType": "/apps/kpmgpublic/components/global/layoutcontainer",
+            "promotionala": {
+                "jcr:primaryType": "nt:unstructured", "imageFileReference": "/content/dam/kpmg/es/images/2017/07/informe-rc-julio-2017.jpg", "dwtype": "regular", "primaryUrl": "https://home.kpmg.com/es/es/home/insights/2017/07/informe-de-responsabilidad-corporativa.html", "contentPopulate": "auto", "jcr:lastModifiedBy": "balaez@kpmg.es", "adwtype": "regular", "altText": "Informe de Responsabilidad Corporativa", "contentSource": "/content/kpmgpublic/es/es/home/insights/2017/11/hacia-ciudad-4-0", "title": "Informe de Responsabilidad Corporativa", "manualTypeContent": "others", "jcr:lastModified": "Mon Nov 13 2017 17:06:10 GMT+0000", "sling:resourceType": "kpmgpublic/components/global/promotionalcomponent", "shortTitle": "Informe de Responsabilidad Corporativa", "longDescription": "Aportamos confianza e impulsamos el cambio", "shortDescription": "Aportamos confianza e impulsamos el cambio", "autoTypeContent": "others", "imageRotate": "0"
+            }
+        }
+        ,
+        "promotionala_1": {
+            "jcr:primaryType": "nt:unstructured", "imageFileReference": "/content/dam/kpmg/images/2016/05/ie_brexit_leaderboard.jpg", "dwtype": "single", "primaryUrl": "https://home.kpmg.com/es/es/home/media/press-releases/2017/08/un-millon-trabajodres-ue-podrian-abandonar-reino-unido-brexit.html", "contentPopulate": "auto", "jcr:lastModifiedBy": "balaez@kpmg.es", "eventStartDate": "02/04/16", "primaryLabel": "Leer más", "adwtype": "single", "altText": "Brexit", "eventEndDate": "02/04/16", "contentSource": "/content/kpmgpublic/es/es/home/insights/2017/12/know-novedades-juridicas-fiscales-61", "eventCity": "Barcelona", "title": "Un millón de trabajadores de la UE podrían abandonar Reino Unido tras el Brexit", "manualTypeContent": "others", "jcr:lastModified": "Wed Dec 20 2017 11:02:02 GMT+0000", "sling:resourceType": "kpmgpublic/components/global/promotionalcomponent", "shortTitle": "Un millón de trabajadores de la UE podrían abandonar Reino Unido tras el Brexit", "longDescription": "Según el estudio “Efectos del Brexit sobre los ciudadanos de la UE” de KPMG en Reino Unido", "shortDescription": "Según el estudio “Efectos del Brexit sobre los ciudadanos de la UE” de KPMG en Reino Unido\n", "autoTypeContent": "others", "imageRotate": "0"
+        }
+    }
+}
+
+,
+"content": {
+    "jcr:content": {
+        "kpmg-navigation": {
+            "primaryNav": {
+                "item0": {
+                    "i18nLabel": "kpmg.navigation.insightsLabel",
+                    "linkURL": "/path/to/insights/page",
+                    "flyout": {
+                        "cell1": {
+                            "type": "nav-list",
+                            "viewAll": {
+                                "linkURL": "/content/kpmgpublic/es/es/home/insights", "label": "Informes y tendencias"
+                            }
+                            ,
+                            "item0": {
+                                "url": "https://home.kpmg.com/es/es/home/insights/2017/12/know-novedades-juridicas-fiscales-61.html", "label": "KNOW. Novedades Jurídicas y Legales nº61"
+                            }
+                            ,
+                            "item1": {
+                                "url": "https://home.kpmg.com/xx/en/home/campaigns/2017/12/international-annual-review.html?cid=van_annualreview-sx_xx-acx_2017-com-iar-2017#introduction", "label": "KPMG International Annual Review 2017"
+                            }
+                            ,
+                            "item2": {
+                                "url": "https://home.kpmg.com/es/es/home/insights/2017/12/vi-barometro-europeo-empresa-familiar.html", "label": "VI Barómetro Europeo de la Empresa Familiar"
+                            }
+                            ,
+                            "item3": {
+                                "url": "https://home.kpmg.com/es/es/home/tendencias/2017/11/fintech-innovacion-servicios-cliente.html", "label": "Fintech: Innovación al servicio del cliente"
+                            }
+                        }
+                        ,
+                        "cell2": {
+                            "type": "card-link", "title": "KPMG Impulsa", "linkUrl": "/content/kpmgpublic/es/es/home/services/kpmg-impulsa", "description": "Una nueva línea de negocio de KPMG orientada a las micro y pequeñas empresas", "altText": "KPMG Impulsa Pymes", "imgUrl": "/content/dam/kpmg/es/images/2017/02/kpmg-impulsa-servicios-mercantiles.jpg"
+                        }
+                        ,
+                        "cell3": {
+                            "type": "card-link", "title": "Home", "linkUrl": "/content/kpmgpublic/es/es/home", "description": "KPMG en España presta servicios de auditoría, fiscales y de asesoramiento legal, financiero y de negocio.", "altText": "KPMG entrance", "imgUrl": "/content/dam/kpmg/images/2015/01/kpmg-enterance.jpg"
+                        }
+                    }
+                }
+                ,
+                "item1": {
+                    "i18nLabel": "kpmg.navigation.industriesLabel",
+                    "linkURL": "path/to/industries/page",
+                    "flyout": {
+                        "cell1": {
+                            "type": "nav-list",
+                            "item0": {
+                                "url": "/content/kpmgpublic/es/es/home/industries/infrastructure", "label": "Infraestructuras"
+                            }
+                            ,
+                            "item1": {
+                                "url": "/content/kpmgpublic/es/es/home/industries/real-estate", "label": "Real Estate"
+                            }
+                            ,
+                            "item2": {
+                                "url": "/content/kpmgpublic/es/es/home/industries/automotive", "label": "Automoción"
+                            }
+                            ,
+                            "item3": {
+                                "url": "/content/kpmgpublic/es/es/home/industries/food-drink-consumer-goods", "label": "Consumo y Distribución"
+                            }
+                            ,
+                            "item4": {
+                                "url": "/content/kpmgpublic/es/es/home/industries/government-public-sector", "label": "Gobierno"
+                            }
+                            ,
+                            "item5": {
+                                "url": "/content/kpmgpublic/es/es/home/industries/healthcare", "label": "Sanidad"
+                            }
+                            ,
+                            "item6": {
+                                "url": "/content/kpmgpublic/es/es/home/industries/private-equity", "label": "Private Equity"
+                            }
+                            ,
+                            "viewAll": {
+                                "url": "/content/kpmgpublic/es/es/home/industries", "label": "Sectores"
+                            }
+                        }
+                        ,
+                        "cell2": {
+                            "type": "card-link", "title": "KPMG Innova", "linkUrl": "/es/es/home/servicios/kpmg-innova.html", "description": "Un punto de encuentro de compañías focalizadas en soluciones innovadoras para la transformación de los negocios", "altText": "KPMG Innova", "imgUrl": "/content/dam/kpmg/es/images/2017/11/kpmg-innova-slider.jpg"
+                        }
+                        ,
+                        "cell3": {
+                            "type": "promotional", "imgUrl": "/etc/designs/kpmgpublic/images/icon-tag.png", "title": "Mi perfil", "text": "El mejor contenido personalizado para ti"
+                        }
+                    }
+                }
+                ,
+                "item2": {
+                    "i18nLabel": "kpmg.navigation.servicesLabel",
+                    "linkURL": "path/to/services/page",
+                    "flyout": {
+                        "cell1": {
+                            "type": "nav-list",
+                            "item0": {
+                                "url": "/content/kpmgpublic/es/es/home/industries/infrastructure", "label": "Auditoría & Assurance"
+                            }
+                            ,
+                            "item1": {
+                                "url": "/content/kpmgpublic/es/es/home/industries/real-estate", "label": "Deal Advisory"
+                            }
+                            ,
+                            "item2": {
+                                "url": "/content/kpmgpublic/es/es/home/industries/automotive", "label": "Management Consulting"
+                            }
+                            ,
+                            "item3": {
+                                "url": "/content/kpmgpublic/es/es/home/industries/food-drink-consumer-goods", "label": "Risk Consulting"
+                            }
+                            ,
+                            "item4": {
+                                "url": "/content/kpmgpublic/es/es/home/industries/government-public-sector", "label": "KPMG Abogados"
+                            }
+                            ,
+                            "viewAll": {
+                                "url": "/content/kpmgpublic/es/es/home/industries", "label": "Servicios"
+                            }
+                        }
+                        ,
+                        "cell2": {
+                            "type": "card-link", "title": "KPMG Impulsa", "linkUrl": "/content/kpmgpublic/es/es/home/services/kpmg-impulsa", "description": "Una nueva línea de negocio de KPMG orientada a las micro y pequeñas empresas", "altText": "KPMG Impulsa Pymes", "imgUrl": "/content/dam/kpmg/es/images/2017/02/kpmg-impulsa-servicios-mercantiles.jpg"
+                        }
+                        ,
+                        "cell3": {
+                            "type": "card-link", "title": "KPMG Innova", "linkUrl": "/es/es/home/servicios/kpmg-innova.html", "description": "Un punto de encuentro de compañías focalizadas en soluciones innovadoras para la transformación de los negocios", "altText": "KPMG Innova", "imgUrl": "/content/dam/kpmg/es/images/2017/11/kpmg-innova-slider.jpg"
+                        }
+                    }
+                }
+            }
+            ,
+            "logo": {
+                "imgURL": "/content/dam/kpmg/images/platform/KPMG.png", "altText": "KPMG logo", "linkURL": "/content/kpmgpublic/es/es/home"
+            }
+            ,
+            "secondaryNav": {
+                "item0": {
+                    "id": 1, "linkURL": "/content/kpmgpublic/es/es/home/careers", "i18nLabel": "kpmg.navigation.careersLabel"
+                }
+                ,
+                "item1": {
+                    "id": 2, "linkURL": "https://www.kpmg.es/alumni/index.php", "i18nLabel": "kpmg.navigation.alumniLabel"
+                }
+                ,
+                "item2": {
+                    "id": 3, "linkURL": "/content/kpmgpublic/es/es/home/media", "i18nLabel": "kpmg.navigation.mediaLabel"
+                }
+                ,
+                "item3": {
+                    "id": 4, "linkURL": "/content/kpmgpublic/es/es/home/social", "i18nLabel": "kpmg.navigation.socialLabel"
+                }
+            }
+        }
+        ,
+        "siteSelectorList": {
+            "iconStyle": "icon-location",
+            "type": "site-selector",
+            "jcr:primaryType": "nt:unstructured",
+            "jcr:lastModifiedBy": "geetanjaliy@kpmg.com",
+            "jcr:uuid": "b762facd-d2fa-4a55-9e12-2ea07e69b07c",
+            "flyout": {
+                "cell1": {
+                    "type": "site-selector-menu"
+                }
+                ,
+                "cell2": {
+                    "type": "promotional", "imgUrl": "/etc/designs/kpmgpublic/images/icon-tag.png", "title": "Mi perfil", "text": "El mejor contenido personalizado para ti"
+                }
+                ,
+                "cell3": {
+                    "type": "card-link", "title": "KPMG Innova", "linkUrl": "/es/es/home/servicios/kpmg-innova.html", "description": "Un punto de encuentro de compañías focalizadas en soluciones innovadoras para la transformación de los negocios", "altText": "KPMG Innova", "imgUrl": "/content/dam/kpmg/es/images/2017/11/kpmg-innova-slider.jpg"
+                }
+            }
+            ,
+            "cell1": {}
+            ,
+            "cell2": {
+                "type": "promotional", "imgUrl": "/etc/designs/kpmgpublic/images/icon-tag.png", "title": "Mi perfil", "text": "El mejor contenido personalizado para ti"
+            }
+            ,
+            "cell3": {
+                "title": "KPMG Impulsa", "linkUrl": "/content/kpmgpublic/es/es/home/services/kpmg-impulsa", "description": "Una nueva línea de negocio de KPMG orientada a las micro y pequeñas empresas", "altText": "KPMG Impulsa Pymes", "imgUrl": "/content/dam/kpmg/es/images/2017/02/kpmg-impulsa-servicios-mercantiles.jpg"
+            }
+        }
+        ,
+        "accountActionList": {
+            "iconStyle": "icon-user",
+            "type": "nav-list",
+            "jcr:primaryType": "nt:unstructured",
+            "jcr:lastModifiedBy": "geetanjaliy@kpmg.com",
+            "jcr:uuid": "b762facd-d2fa-4a55-9e12-2ea07e69b07c",
+            "flyout": {
+                "cell1": {
+                    "type": "nav-list",
+                    "item0": {
+                        "url": "register", "i18nLabel": "kpmg.mykpmgflyout.register"
+                    }
+                    ,
+                    "item1": {
+                        "url": "login", "i18nLabel": "kpmg.personalization.homepage.mykpmgflyout.login"
+                    }
+                    ,
+                    "item2": {
+                        "url": "learn-more", "i18nLabel": "kpmg.personalization.homepage.mykpmgpromo.learnmore"
+                    }
+                }
+                ,
+                "cell2": {
+                    "type": "card-link", "title": "Home", "linkUrl": "/content/kpmgpublic/es/es/home", "description": "KPMG en España presta servicios de auditoría, fiscales y de asesoramiento legal, financiero y de negocio.", "altText": "KPMG entrance", "imgUrl": "/content/dam/kpmg/images/2015/01/kpmg-enterance.jpg"
+                }
+                ,
+                "cell3": {
+                    "type": "card-link", "title": "KPMG Impulsa", "linkUrl": "/content/kpmgpublic/es/es/home/services/kpmg-impulsa", "description": "Una nueva línea de negocio de KPMG orientada a las micro y pequeñas empresas", "altText": "KPMG Impulsa Pymes", "imgUrl": "/content/dam/kpmg/es/images/2017/02/kpmg-impulsa-servicios-mercantiles.jpg"
+                }
+            }
+            ,
+            "cell1": {
+                "item0": {
+                    "url": "register", "i18nLabel": "kpmg.mykpmgflyout.register"
+                }
+                ,
+                "item1": {
+                    "url": "login", "i18nLabel": "kpmg.personalization.homepage.mykpmgflyout.login"
+                }
+                ,
+                "item2": {
+                    "url": "learn-more", "i18nLabel": "kpmg.personalization.homepage.mykpmgpromo.learnmore"
+                }
+            }
+            ,
+            "cell2": {
+                "title": "KPMG Impulsa", "linkUrl": "/content/kpmgpublic/es/es/home/services/kpmg-impulsa", "description": "Una nueva línea de negocio de KPMG orientada a las micro y pequeñas empresas", "altText": "KPMG Impulsa Pymes", "imgUrl": "/content/dam/kpmg/es/images/2017/02/kpmg-impulsa-servicios-mercantiles.jpg"
+            }
+            ,
+            "cell3": {
+                "title": "Home", "linkUrl": "/content/kpmgpublic/es/es/home", "description": "KPMG en España presta servicios de auditoría, fiscales y de asesoramiento legal, financiero y de negocio.", "altText": "KPMG entrance", "imgUrl": "/content/dam/kpmg/images/2015/01/kpmg-enterance.jpg"
+            }
+        }
+        ,
+        "kpmg-herocarousel": {
+            "variation": "marginalized",
+            "item0": {
+                "primaryCtaUrl": "https://home.kpmg.com/xx/en/home/campaigns/2017/12/international-annual-review.html?cid=van_annualreview-sx_xx-acx_2017-com-iar-2017#introduction", "description": "Innovate. Disrupt.Grow", "shortDescription": "Innovate. Disrupt.Grow", "variant": "variant_1", "title": "KPMG International Annual Review 2017", "image": "/content/dam/kpmg/xx/images/2017/12/international-annual-review-cover.jpg", "altText": "KPMG International Annual Review 2017"
+            }
+            ,
+            "item1": {
+                "primaryCtaUrl": "https://home.kpmg.com/es/es/home/insights/2017/12/vi-barometro-europeo-empresa-familiar.html", "description": "El Instituto de la Empresa Familiar en colaboración con KPMG presentan esta nueva edición del barómetro", "shortDescription": "El Instituto de la Empresa Familiar en colaboración con KPMG presentan esta nueva edición del barómetro", "variant": "variant_2", "title": "VI Barómetro Europeo de la Empresa Familiar", "image": "/content/dam/kpmg/es/images/2017/12/vi-barometro-empresa-familiar.jpg", "altText": "VI Barómetro Europeo de la Empresa Familiar"
+            }
+            ,
+            "item2": {
+                "primaryCtaUrl": "https://home.kpmg.com/es/es/home/tendencias/2017/11/fintech-innovacion-servicios-cliente.html", "description": "‘Fintech: Innovación al servicio del cliente’ es un informe elaborado por KPMG y Funcas que analiza el mercado Fintech español", "shortDescription": "‘Fintech: Innovación al servicio del cliente’ es un informe elaborado por KPMG y Funcas que analiza el mercado Fintech español", "variant": "variant_1", "title": "Fintech: Innovación al servicio del cliente", "image": "/content/dam/kpmg/es/images/2017/11/Portada_Informe_Funcas_SIN.JPG", "altText": "Fintech: Innovación al servicio del cliente"
+            }
+        }
+    }
+}
+
+,
+"nodeNames": {
+    "NAVIGATION_NODE": "kpmg-navigation", "LOGO_NODE": "logo", "NAVBAR_NAV_NODE": "navbar-nav-list", "HEROCAROUSEL_NODE": "kpmg-herocarousel"
+}
+
+,
+"nav": {}
+
+,
+"herocarousel": {}
+
+
+}

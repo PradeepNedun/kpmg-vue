@@ -1,0 +1,109 @@
+commit d39a5584bbc9f9abcb0b990ff6215558f782e350
+Author: Akash <ashah10@sapient.com>
+Date:   Thu Mar 22 18:16:46 2018 +0530
+
+    formatted components as per recommendations/checklist
+
+commit 4025b22a9c85c8b7bc09179d99c29e666798f844
+Author: Akash <ashah10@sapient.com>
+Date:   Wed Mar 21 13:48:43 2018 +0530
+
+    few hygiene issues fixed
+
+commit c5f490e6d14901fdf580813421f4fefd9dcc6dde
+Author: Akash <ashah10@sapient.com>
+Date:   Wed Mar 21 08:26:14 2018 +0530
+
+    preventing default on all <a> tags
+
+commit e52f1c3b91ca69942cd67a7a6dfd0830f9467a8d
+Author: Akash <ashah10@sapient.com>
+Date:   Tue Mar 20 09:22:39 2018 +0530
+
+    removed un-required data-source
+
+commit f24fe87cb543469e9e5f2dec1bb67cfacb904973
+Author: Akash <ashah10@sapient.com>
+Date:   Tue Mar 20 09:21:32 2018 +0530
+
+    changed data source for mobile-primary-nav and mobile-secondary-nav
+
+commit 482007a721423a4ce5cc366e5400d2189a95773d
+Author: Akash <ashah10@sapient.com>
+Date:   Mon Mar 19 09:34:02 2018 +0530
+
+    removed console logs and few other changes
+
+commit b8b59fec27ec1792863ac04a6467bbd539432be3
+Author: Akash <ashah10@sapient.com>
+Date:   Mon Mar 19 09:21:28 2018 +0530
+
+    included sass variables for colors in place of hard coded values
+
+commit 1069387cc82f2347ef15c7c579145d75ca1316d3
+Author: Akash <ashah10@sapient.com>
+Date:   Sun Mar 18 18:24:16 2018 +0530
+
+    added box-shadow for collapse in mobile-nav-tablist
+
+commit 7a1dee93df7b60e8292d49a65acb8e2c968a3269
+Author: Akash <ashah10@sapient.com>
+Date:   Sun Mar 18 18:13:02 2018 +0530
+
+    Working Mobile Navigation - WIP
+
+commit f3b9c98dc6e4c4228bdd1adb17a809f4e49b6a90
+Author: Akash <ashah10@sapient.com>
+Date:   Sun Mar 18 13:02:20 2018 +0530
+
+    including animate.css
+
+commit de79d288c334bdd090ad549680a2413e28023be5
+Author: Akash <ashah10@sapient.com>
+Date:   Fri Mar 16 14:25:59 2018 +0530
+
+    replaced scss imports to avoid importing all styles for each component.  Now we will \n
+    import only variables and functions
+
+commit 870657ac38fb6e55422407e0de88a873a33abe98
+Author: Akash <ashah10@sapient.com>
+Date:   Fri Mar 16 06:40:00 2018 +0530
+
+    few changes to animated search bar, flyout and icon-menu
+
+commit 1adbbfc45729d8ab357155096360a44cf40673bb
+Author: Akash <ashah10@sapient.com>
+Date:   Thu Mar 15 12:27:05 2018 +0530
+
+    basic restructuring and sass variables instead of hard-coding
+
+commit 948969b63fbd246daf2c9115723fa11584620c37
+Merge: d185442 e8f8cb6
+Author: Akash <ashah10@sapient.com>
+Date:   Thu Mar 15 09:18:59 2018 +0530
+
+    browser-specific classes
+
+commit e8f8cb6f3119d467fc3ba12b37858939f6ac6e6f
+Author: Akash <subs@appsaprkler.com>
+Date:   Thu Mar 15 07:52:28 2018 +0530
+
+    adding class for safari browser
+
+commit d18544255215a14f72525764dff33b806831485a
+Author: Akash <ashah10@sapient.com>
+Date:   Tue Mar 13 18:03:28 2018 +0530
+
+    few changes
+
+commit 9d4a25d952321f633cf5682df1cacd05eafaf22b
+Author: Akash <ashah10@sapient.com>
+Date:   Tue Mar 13 13:12:01 2018 +0530
+
+    Browser Detection Enabled
+
+commit feb99c0323538a8d0dc2dd5769e28ea54dcdfcd6
+Author: Akash <ashah10@sapient.com>
+Date:   Tue Mar 13 10:53:08 2018 +0530
+
+    init

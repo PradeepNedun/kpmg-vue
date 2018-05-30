@@ -1,0 +1,424 @@
+{
+	"logo": {
+		"imgURL": "/content/dam/kpmg/uk/images/ac-assets/logo-kpmg--00338D.png", "altText": "alt", "linkURL": "/xx/en/home.html"
+	}
+	,
+	"navbarNav": {
+		"insights": {
+			"id":"insights-flyout",
+			"i18nLabel":"Insights",
+			"linkURL":"/xx/en/home/insights.html",
+			"flyout": {
+				"cell1": {
+					"type":"nav-list",
+					"links":[ {} ]
+				}
+				,
+				"cell2": {}
+				,
+				"cell3": {}
+			}
+		}
+		,
+		"industries": {
+			"id":"industries-flyout",
+			"i18nLabel":"Industries",
+			"linkURL":"/xx/en/home/industries.html",
+			"flyout": {
+				"cell1": {
+					"type":"nav-list",
+					"links":[ {
+						"label": "Industries 1", "url": "/xx/en/home/industries/automotive/kpmg-automotive-financial-services.html"
+					}
+					,
+					{
+						"label": "Industries 2", "url": "/xx/en/home/industries/automotive/kpmg-automotive-financial-services.html"
+					}
+					,
+					{
+						"label": "Industries 3", "url": "/xx/en/home/industries.html"
+					}
+					],
+					"viewAll": {
+						"linkURL": "/xx/en/home/industries.html", "label": "Industries"
+					}
+				}
+				,
+				"cell2": {
+					"type":"nav-list",
+					"links":[ {
+						"label": "Industry 1", "url": "/xx/en/home/industries/consumer-and-retail/.html"
+					}
+					,
+					{
+						"label": "Industry 2", "url": "/xx/en/home/industries/automotive.html"
+					}
+					,
+					{
+						"label": "Industry 3", "url": "/xx/en/home/industries.html"
+					}
+					],
+					"viewAll": {
+						"linkURL": "/xx/en/home/industries.html", "label": "Industries"
+					}
+				}
+				,
+				"cell3": {
+					"type": "card-link", "title": "Feature Heading ", "linkUrl": "/xx/en/home/industries/automotive/kpmg-automotive-financial-services.html", "description": "Feature description", "altText": "alt", "imgUrl": "/content/dam/kpmg/tw/images/2018/03/20180321_book6.jpg"
+				}
+			}
+		}
+		,
+		"services": {
+			"id":"services-flyout",
+			"i18nLabel":"Services",
+			"linkURL":"/xx/en/home/services.html",
+			"flyout": {
+				"cell1": {
+					"type":"nav-list",
+					"links":[ {
+						"label": "Services 1", "url": "/xx/en/home/services/audit/financial-statement-audit.html"
+					}
+					,
+					{
+						"label": "Services 2", "url": "/xx/en/home/services/audit.html"
+					}
+					,
+					{
+						"label": "Services 2", "url": "/xx/en/home/services.html"
+					}
+					],
+					"viewAll": {
+						"linkURL": "/xx/en/home/services.html", "label": "Services"
+					}
+				}
+				,
+				"cell2": {
+					"type":"nav-list",
+					"links":[ {
+						"label": "Service 1", "url": "/xx/en/home/services/audit/dynamic-risk-assessment.html"
+					}
+					,
+					{
+						"label": "Service 2", "url": "/xx/en/home/services/audit/assurance.html"
+					}
+					,
+					{
+						"label": "Service 3", "url": "/xx/en/home/services/audit/financial-statement-audit.html"
+					}
+					],
+					"viewAll": {
+						"linkURL": "/xx/en/home/services.html", "label": "Service"
+					}
+				}
+				,
+				"cell3": {
+					"type": "card-link", "title": "Feature Heading", "linkUrl": "/xx/en/home/services/audit/financial-statement-audit.html", "description": "Feature Description", "altText": "alt", "imgUrl": "/content/dam/kpmg/tw/images/2018/03/20180316_book8.jpg"
+				}
+			}
+		}
+		,
+		"optional": {
+			"id":"optional-flyout",
+			"i18nLabel":"Opt 1- About",
+			"linkURL":"/xx/en/home/about.html",
+			"flyout": {
+				"cell1": {
+					"type":"nav-list",
+					"links":[ {
+						"label": "About 1", "url": "/xx/en/home/about/citizenship/strategic-collaboration.html"
+					}
+					,
+					{
+						"label": "About 2", "url": "/xx/en/home/about.html"
+					}
+					,
+					{
+						"label": "About 3", "url": "/xx/en/home/about/citizenship.html"
+					}
+					],
+					"viewAll": {
+						"linkURL": "/xx/en/home/about.html", "label": "About"
+					}
+				}
+				,
+				"cell2": {
+					"type":"nav-list",
+					"links":[ {
+						"label": "About 1", "url": "/xx/en/home/about/citizenship/strategic-collaboration.html"
+					}
+					,
+					{
+						"label": "About 2", "url": "/content/kpmgpublic/xx/en/home/about/citizenship/creating-opportunity-through-learning"
+					}
+					,
+					{
+						"label": "About 3", "url": "/xx/en/home/about/citizenship.html"
+					}
+					],
+					"viewAll": {
+						"linkURL": "/xx/en/home/about.html", "label": "About"
+					}
+				}
+				,
+				"cell3": {
+					"type": "card-link", "title": "Feature Heading", "linkUrl": "/xx/en/home/about.html", "description": "Feature Description", "altText": "alt", "imgUrl": "/content/dam/kpmg/tw/images/2018/03/20180316_book8.jpg"
+				}
+			}
+		}
+		,
+		"optional1": {
+			"id":"optional2-flyout",
+			"i18nLabel":"Opt 2- Careers",
+			"linkURL":"/xx/en/home/careers.html",
+			"flyout": {
+				"cell1": {
+					"type":"nav-list",
+					"links":[ {
+						"label": "Careers 1", "url": "/xx/en/home/careers/connections-global-employee-referral-program.html"
+					}
+					,
+					{
+						"label": "Careers 2", "url": "/xx/en/home/careers.html"
+					}
+					,
+					{
+						"label": "Careers 3", "url": "/xx/en/home/careers/life-at-kpmg.html"
+					}
+					],
+					"viewAll": {
+						"linkURL": "/xx/en/home/careers.html", "label": "Careers"
+					}
+				}
+				,
+				"cell2": {
+					"type":"nav-list",
+					"links":[ {
+						"label": "Career 1", "url": "/xx/en/home/careers/graduates/what-we-do/advisory/our-people-david-gottesman.html"
+					}
+					,
+					{
+						"label": "Career 2", "url": "/xx/en/home/careers/graduates/what-we-do/advisory.html"
+					}
+					,
+					{
+						"label": "Career 3", "url": "/xx/en/home/careers/graduates/what-we-do.html"
+					}
+					],
+					"viewAll": {
+						"linkURL": "/xx/en/home/careers.html", "label": "Careers"
+					}
+				}
+				,
+				"cell3": {
+					"type": "card-link", "title": "Feature Heading", "linkUrl": "/xx/en/home/careers/graduates/what-we-do/advisory/our-people-david-gottesman.html", "description": "Feature Description", "altText": "alt", "imgUrl": "/content/dam/kpmg/au/images/2018/clean-coastline.jpg"
+				}
+			}
+		}
+		,
+		"optional2": {
+			"id":"optional3-flyout",
+			"i18nLabel":"Opt 3- Media",
+			"linkURL":"/xx/en/home/media.html",
+			"flyout": {
+				"cell1": {
+					"type":"nav-list",
+					"links":[ {
+						"label": "Media 1", "url": "/xx/en/home/media/press-releases/2018/03/us-named-top-global-tech-innovation-leader.html"
+					}
+					,
+					{
+						"label": "Media 2", "url": "/xx/en/home/media/press-releases.html"
+					}
+					,
+					{
+						"label": "Media 3", "url": "/xx/en/home/media/press-releases/2018/03/us-named-top-global-tech-innovation-leader.html"
+					}
+					],
+					"viewAll": {
+						"linkURL": "/xx/en/home/media/press-releases.html", "label": "Media"
+					}
+				}
+				,
+				"cell2": {
+					"type":"nav-list",
+					"links":[ {
+						"label": "Media 1", "url": "/xx/en/home/media/press-releases/2018/03/us-named-top-global-tech-innovation-leader.html"
+					}
+					,
+					{
+						"label": "Media 2", "url": "/xx/en/home/media/press-releases/2018/03/kpmg-announces-maturity-assessment-roadmap-for-gdpr.html"
+					}
+					,
+					{
+						"label": "Media 3", "url": "/xx/en/home/media/press-releases/2018/03/us-named-top-global-tech-innovation-leader.html"
+					}
+					],
+					"viewAll": {
+						"linkURL": "/xx/en/home/media.html", "label": "Media"
+					}
+				}
+				,
+				"cell3": {
+					"type": "card-link", "title": "Feature Heading", "linkUrl": "/xx/en/home/media.html", "description": "Feature Description", "altText": "alt", "imgUrl": "/content/dam/kpmg/au/images/2018/melbourne-activity-based-model-video-still.jpg"
+				}
+			}
+		}
+	}
+	,
+	"secondaryNav":[ {
+		"id": "careers", "label": "Careers", "linkURL": ""
+	}
+	,
+	{
+		"id": "alumni", "label": "Alumni", "linkURL": ""
+	}
+	,
+	{
+		"id": "media", "label": "Media", "linkURL": ""
+	}
+	,
+	{
+		"id": "social", "label": "Social", "linkURL": ""
+	}
+	,
+	{
+		"id": "about", "label": "About", "linkURL": ""
+	}
+	],
+	"siteSelectorList": {
+		"iconStyle":"icon-location",
+		"isVisible":true,
+		"id":"site-selector",
+		"flyout": {
+			"cell1": {
+				"type":"site-selector-menu",
+				"heading":"Select KPMG member firm site and language",
+				"global": {
+					"selected": false, "link": "/content/kpmgpublic/xx/en/home.html", "countryLocale": "Global (English)"
+				}
+				,
+				"sites": [
+					{
+						"selected": true,
+						"link": "https://www.google.com/",
+						"countryLocale": "locale 1"
+					},
+					{
+						"selected": false,
+						"link": "https://www.google.com/",
+						"countryLocale": "locale 2"
+					},
+					{
+						"selected": false,
+						"link": "https://www.google.com/",
+						"countryLocale": "locale 3"
+					}
+				],
+				"allCountries": {
+					"link": "/content/kpmgpublic/xx/en/home/misc/site-selector.html", "i18nLabel": "View all KPMG sites and languages"
+				}
+			}
+			,
+			"cell2": {
+				"type": "card-link", "title": "Feature Heading", "linkUrl": "/content/kpmgpublic/xx/en/home/insights/2012/06/regulation-capital-management", "description": "Feature Description", "altText": "alt", "imgUrl": "/content/dam/kpmg/tw/images/2018/03/20180321_book6.jpg"
+			}
+			,
+			"cell3": {
+				"type": "card-link", "title": "Feature Heading", "linkUrl": "/content/kpmgpublic/xx/en/home/insights/2012/06/state-of-the-civets", "description": "Feature Description", "altText": "alt", "imgUrl": "/content/dam/kpmg/tw/images/2018/03/20180321_book6.jpg"
+			}
+		}
+	}
+	,
+	"accountActionList": {
+		"iconStyle":"icon-user",
+		"id":"my-account-flyout",
+		"type":"nav-list",
+		"loggedOutLinks":[ {
+			"url": "/content/kpmgpublic/xx/en/home/user/registration.html",
+			"label": "Register",
+			"dataName": "register"
+		}
+		,
+		{
+			"url":
+				"/content/kpmgpublic/xx/en/home/user/login.html",
+				"label": "Login",
+				"dataName": "login"
+		}
+		,
+		{
+			"url": "/content/kpmgpublic/xx/en/home/user/overlays/kpmglearnmore.html", "label": "Learn more", "dataName": "learnmore", "key": "kpmg.personalization.homepage.mykpmgflyout.aboutMyKpmg"
+		}
+		],
+		"loggedInLinks":[ {
+			"url": "/content/kpmgpublic/xx/en/home/dashboard.html", "label": "Dashboard"
+		}
+		,
+		{
+			"url": "/content/kpmgpublic/xx/en/home/dashboard/library.html", "label": "Library"
+		}
+		,
+		{
+			"url": "/content/kpmgpublic/xx/en/home/user/overlays/kpmglearnmore.html", "label": "Learn more", "key": "kpmg.personalization.homepage.mykpmgflyout.aboutMyKpmg"
+		}
+		,
+		{
+			"url": "/content/kpmgpublic/xx/en/home/dashboard/myinterests.html", "label": "Interests"
+		}
+		,
+		{
+			"url": "/content/kpmgpublic/xx/en/home/dashboard/myaccount.html", "label": "Profile"
+		}
+		,
+		{
+			"url": "#", "label": "Logout", "key": "kpmg.personalization.homepage.mykpmgflyout.logout"
+		}
+		,
+		{
+			"isLastItem": true
+		}
+		],
+		"flyout": {
+			"cell1": {
+				"type":"nav-list",
+				"links":[ {
+					"url": "/content/kpmgpublic/xx/en/home/user/registration.html", "label": "Register", "dataName": "register"
+				}
+				,
+				{
+					"url": "/content/kpmgpublic/xx/en/home/user/login.html", "label": "Login", "dataName": "login"
+				}
+				,
+				{
+					"url": "/content/kpmgpublic/xx/en/home/user/overlays/kpmglearnmore.html", "label": "Learn more", "dataName": "learnmore"
+				}
+				]
+			}
+			,
+			"cell2": {
+				"type": "card-link", "title": "Feature Heading", "linkUrl": "/xx/en/home/media/press-releases/2018/03/us-named-top-global-tech-innovation-leader.html", "description": "Feature Description", "altText": "alt", "imgUrl": "/content/dam/kpmg/uk/images/2018/03/cargo-ship 1500x1000.jpg"
+			}
+			,
+			"cell3": {
+				"type": "card-link", "title": "Feature Heading", "linkUrl": "/xx/en/home/media/press-releases/2018/03/kpmg-unveils-cognitive-business-solutions-to-address-digital-transformation-challenges-under-alliance-with-ibm.html", "description": "Feature Description", "altText": "alt", "imgUrl": "/content/dam/kpmg/ca/images/2018/03/Longboarders.jpg"
+			}
+		}
+		,
+		"isVisible": true
+	}
+	,
+	"mobileTabs": {
+		"userProfile": {
+			"id": "user-profile", "icon": "icon-user", "closeTabLabel": "Close MyAccount Menu", "isVisible": true
+		}
+		,
+		"search": {
+			"id": "search", "icon": "icon-search", "closeTabLabel": "Close search", "isVisible": true
+		}
+		,
+		"languageLocale": {
+			"id": "language-locale", "icon": "icon-location", "closeTabLabel": "Close site selector", "isVisible": true
+		}
+	}
+}
